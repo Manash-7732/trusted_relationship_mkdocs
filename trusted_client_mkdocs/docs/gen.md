@@ -46,7 +46,7 @@ Set the correct permissions on the ~/.ssh directory and the ~/.ssh/authorized_ke
 chmod 600 ~/.ssh/authorized_keys
 This ensures that only you can read and write to these files.
 
-# tHROUGH PuTTYgen
+# THROUGH PuTTYgen
 
 ![Gen4](puttygen.PNG)
 

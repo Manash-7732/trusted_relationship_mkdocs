@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: AMERICANICHE ACADEMY
 dev_addr: 0.0.0.0:8000
 nav:
   - Home: index.md
