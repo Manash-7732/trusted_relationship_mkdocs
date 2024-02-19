@@ -1,8 +1,9 @@
 site_name: My Docs
 dev_addr: 0.0.0.0:8000
 nav:
-  - Home: home.md
+  - Home: index.md
   - About: about.md
-  - Generation: gen.md
+  - Generation Of Keys: gen.md
   - Deployment: deployment.md
+  - Result: result.md
 theme: readthedocs  
